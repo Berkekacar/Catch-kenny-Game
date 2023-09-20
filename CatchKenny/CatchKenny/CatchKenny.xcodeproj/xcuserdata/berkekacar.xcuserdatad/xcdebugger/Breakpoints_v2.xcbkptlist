@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A5F0FD4-9DDD-4E7B-9D1F-1E38BDC3F939"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatchKenny/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84 - 613b25f8a8cebaed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchKenny.ViewController.gameTimer.getter : Swift.Optional&lt;__C.NSTimer&gt;"
+                  moduleName = "CatchKenny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkekacar/Desktop/swift/CatchKenny/CatchKenny/CatchKenny/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84 - 2f7593e59ab4eaf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchKenny.ViewController.gameTimer.setter : Swift.Optional&lt;__C.NSTimer&gt;"
+                  moduleName = "CatchKenny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkekacar/Desktop/swift/CatchKenny/CatchKenny/CatchKenny/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84 - 813fe11282d7e6ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchKenny.ViewController.gameTimer.modify : Swift.Optional&lt;__C.NSTimer&gt;"
+                  moduleName = "CatchKenny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkekacar/Desktop/swift/CatchKenny/CatchKenny/CatchKenny/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84 - 545137a9b489c16e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchKenny.ViewController.gameTimer.modify : Swift.Optional&lt;__C.NSTimer&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CatchKenny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkekacar/Desktop/swift/CatchKenny/CatchKenny/CatchKenny/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84 - 7c5daad8cfb1137d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchKenny.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CatchKenny.ViewController"
+                  moduleName = "CatchKenny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkekacar/Desktop/swift/CatchKenny/CatchKenny/CatchKenny/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "8AC11819-F0B1-4192-AE3D-ACBE19A1EB84 - 6bb9b3ee911b030e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchKenny.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CatchKenny.ViewController&gt;"
+                  moduleName = "CatchKenny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/berkekacar/Desktop/swift/CatchKenny/CatchKenny/CatchKenny/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
